@@ -80,17 +80,25 @@ Average Price: Calculated the average selling price across all cars in the datas
 ### Total Revenue and Avg. Price:
 - Summary of total revenue across all cities and brands.
 - The average price gives insight into the cost range of cars sold.
-  
+
+  ![image alt](https://github.com/IsmailMaaji/Car-Sales-Analysis-in-Morocco/blob/main/images/AVG%20and%20total%20revenu.png)
 
 ### Car Sales by City:
 - A breakdown of car sales for each brand across different cities in Morocco.
 - Highlights cities with the highest sales concentration, such as Casablanca.
-  
+
+   ![image alt](https://github.com/IsmailMaaji/Car-Sales-Analysis-in-Morocco/blob/main/images/map.png)
+
 ### Transmission and Engine Type Preferences:
 - Pie charts showing consumer preferences in transmission and engine types.
-  
+
+   ![image alt](https://github.com/IsmailMaaji/Car-Sales-Analysis-in-Morocco/blob/main/images/transmission.png)
+
 ### Top-Selling Models:
 - Bar chart showing the top models like Kangoo, Logan, and Clio.
 
+ ![image alt](https://github.com/IsmailMaaji/Car-Sales-Analysis-in-Morocco/blob/main/images/model.png)
 
+## Screenshots :
 
+![image alt](https://github.com/IsmailMaaji/Car-Sales-Analysis-in-Morocco/blob/main/images/1st%20one.png)
